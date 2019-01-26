@@ -2,7 +2,7 @@
   "name": "Tutorial Sample",
   "version": "1.0",
   "description": "Build an Extention!!",
-  "permissions": ["storage"],
+  "permissions": ["declarativeContent", "storage"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
